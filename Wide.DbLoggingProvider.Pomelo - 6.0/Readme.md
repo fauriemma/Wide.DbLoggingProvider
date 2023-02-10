@@ -32,7 +32,7 @@ Officially supported versions are:
 Ensure that your `.csproj` file contains the following reference:
 
 ```xml
-<PackageReference Include="Wide82.DbLoggingProvider.Pomelo" Version="6.0.0" />
+<PackageReference Include="Wide82.DbLoggingProvider.Pomelo" Version="6.0.1" />
 ```
 ### 2. Configure Logging
 

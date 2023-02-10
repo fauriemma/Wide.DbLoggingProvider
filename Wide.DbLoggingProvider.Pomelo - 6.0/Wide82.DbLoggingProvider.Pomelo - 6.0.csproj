@@ -10,7 +10,15 @@
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageId>Wide82.DbLoggingProvider.Pomelo</PackageId>
-    <Version>6.0.0</Version>
+    <Version>6.0.1</Version>
+    <AssemblyName>Wide82.DbLoggingProvider.Pomelo</AssemblyName>
+    <RootNamespace>Wide82.DbLoggingProvider.Pomelo</RootNamespace>
+    <PackageProjectUrl>https://github.com/fauriemma/Wide.DbLoggingProvider</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fauriemma/Wide.DbLoggingProvider</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>Log Provider, used to archive application's log entries on MySQL Database. You can also use Wide Logs Analyzer to check, read and analyze issues of your applications.</Description>
+    <FileVersion>6.0.1</FileVersion>
+    <AssemblyVersion>6.0.1</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
