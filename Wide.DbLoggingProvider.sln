@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wide82.DbLoggingProvider.Po
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wide82.DbLoggingProvider.Pomelo - 6.0", "Wide.DbLoggingProvider.Pomelo - 6.0\Wide82.DbLoggingProvider.Pomelo - 6.0.csproj", "{A3396762-2D1F-4788-9936-7704B087F489}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wide82.DbLoggingProvider.Pomelo - 5.0", "Wide.DbLoggingProvider.Pomelo - 5.0\Wide82.DbLoggingProvider.Pomelo - 5.0.csproj", "{BB264C59-8B60-4A53-A6A3-A9512EE5EC1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A3396762-2D1F-4788-9936-7704B087F489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3396762-2D1F-4788-9936-7704B087F489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3396762-2D1F-4788-9936-7704B087F489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB264C59-8B60-4A53-A6A3-A9512EE5EC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB264C59-8B60-4A53-A6A3-A9512EE5EC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB264C59-8B60-4A53-A6A3-A9512EE5EC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB264C59-8B60-4A53-A6A3-A9512EE5EC1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
